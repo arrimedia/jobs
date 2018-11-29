@@ -6,7 +6,7 @@
 - Entwicklung von Anwendungen und Schnittstellen zur Verbesserung und Optimierung von Workflows in der Postproduktion sowie von postproduktionsnahen Produkten
 
 ###### Anforderungen
-- mehrjährige Berufserfahrung als Softwareentwickler (m/w) von Ruby on Rails Applikationen oder einem anderen MVC-Framework
+- mehrjährige Berufserfahrung als Softwareentwickler von Ruby on Rails Applikationen oder einem anderen MVC-Framework
 
 - gute Kenntnisse in HTML5 und JavaScript
 
