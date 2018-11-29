@@ -1,7 +1,7 @@
 ## Werkstudent (m/w/d) Medianinformatik
 
 #### Aufgaben
- *befristet (max. 20 Stunden/Woche während des Semesters, max. 35 Stunden/Woche in den Semesterferien)*
+ -- *befristet (max. 20 Stunden/Woche während des Semesters, max. 35 Stunden/Woche in den Semesterferien)* --
 
  Sie werden
 - in die Konzeption und Entwicklung unserer Webapplikationen eingebunden
