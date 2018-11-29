@@ -57,4 +57,4 @@
 
 ###### Bewerben:
 
-Sie können sich [hier](https://arri-career.dvinci.de/de/jobs/197/apply?_ga=2.151254140.491354477.1543480671-1360277794.1543480671)  online bewerben oder  Ihre Unterlagen an folgende E-Mailadresse senden: carrer@arri.de
+Sie können sich [hier](https://arri-career.dvinci.de/de/jobs/197/apply?_ga=2.151254140.491354477.1543480671-1360277794.1543480671)  online bewerben oder  Ihre Unterlagen an folgende E-Mailadresse senden: career@arri.de
