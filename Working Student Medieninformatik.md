@@ -52,4 +52,4 @@ Optional/wünschenswert haben Sie zudem:
 
 #### Bewerben:
 
-Sie können sich [hier](https://arri-career.dvinci.de/de/jobs/197/apply?_ga=2.151254140.491354477.1543480671-1360277794.1543480671)  online bewerben oder  Ihre Unterlagen an folgende E-Mailadresse senden: career@arri.de
+Über den nachfolgenden [Link](https://arri-career.dvinci.de/de/jobs/211/apply?_ga=2.158645631.491354477.1543480671-1360277794.1543480671) können Sie sich online bewerben.
