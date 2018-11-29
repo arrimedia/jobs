@@ -20,7 +20,7 @@
 
 - Fließende Deutschkenntnisse und gute Englischkenntnisse sind Voraussetzung
 
-- ein Abgeschlossenes Studium im Bereich Informatik, Medieninformatik oder einer ähnlichen Fachrichtung oder eine vergleichbare Qualifikation bzw. eine abgeschlossene fachspezifische Berufsausbildung z.B. zum Fachinformatiker (m/w) ist von Vorteil
+- ein abgeschlossenes Studium im Bereich Informatik, Medieninformatik oder einer ähnlichen Fachrichtung oder eine vergleichbare Qualifikation bzw. eine abgeschlossene fachspezifische Berufsausbildung z.B. zum Fachinformatiker (m/w) ist von Vorteil
 - Kenntnisse im Bereich Medienproduktion oder zu Workflows, technischen Hintergründen in der digitalen Postproduktion sind ein Plus
 
 
