@@ -1,5 +1,4 @@
 # Software Developing Jobs at ARRI Media
-Check out our open positions and discover the opportunities at ARRI
 
 ARRI is a very successful worldwide operating company with high quality products and services. The dedication of our high motivated employees contributes to our success whether at our headquarters in Munich or at our bases in America, Canada, Europe, Asia and Australia.
 
