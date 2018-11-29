@@ -3,7 +3,9 @@
 #### Aufgaben
 - Konzeption, Entwicklung und Pflege der auf Ruby on Rails- und HTML5-basierten Webapplikationen und Media Asset Management Systeme im Bereich der Filmproduktion
 
-- Entwicklung von Anwendungen und Schnittstellen zur Verbesserung und Optimierung von Workflows in der Postproduktion sowie von postproduktionsnahen Produkten
+- maßgebliche Weiterentwicklung von Anwendungen und Schnittstellen zur Verbesserung und Optimierung von Workflows in der Postproduktion sowie von postproduktionsnahen Produkten
+
+- Nutzung agiler Softwareentwicklungsmethoden (Kanban) und Prozesse 
 
 #### Anforderungen
 - mehrjährige Berufserfahrung als Softwareentwickler von Ruby on Rails Applikationen oder einem anderen MVC-Framework
@@ -20,7 +22,7 @@
 
 - Fließende Deutschkenntnisse und gute Englischkenntnisse sind Voraussetzung
 
-- ein abgeschlossenes Studium im Bereich Informatik, Medieninformatik oder einer ähnlichen Fachrichtung oder eine vergleichbare Qualifikation bzw. eine abgeschlossene fachspezifische Berufsausbildung z.B. zum Fachinformatiker (m/w) ist von Vorteil
+- ein abgeschlossenes Studium im Bereich Informatik, Medieninformatik oder einer ähnlichen Fachrichtung oder eine vergleichbare Qualifikation bzw. eine abgeschlossene fachspezifische Berufsausbildung z.B. zum Fachinformatiker ist von Vorteil
 - Kenntnisse im Bereich Medienproduktion oder zu Workflows, technischen Hintergründen in der digitalen Postproduktion sind ein Plus
 
 
@@ -35,10 +37,9 @@
 - Spannende und abwechslungsreiche Aufgabengebiete sowie Einblicke in alle Prozesse vom Produktdesign bis zum SW-Release
 
 - Vielfältige Karriere- und Entwicklungsmöglichkeiten
-- 30 Tage Urlaub
-- 13 Monatsgehälter
-- Altersvorsorgepaket
-- Option auf Home Office
+- zusätzliche Absicherung durch eine betriebliche Altersversorgung 
+- Gleitzeit und flexible Arbeitszeitmodelle
+- familienfreundliches Arbeiten
 
 
 ###### Unser Stack:
@@ -56,4 +57,5 @@
 
 #### Bewerben:
 
-Sie können sich [hier](https://arri-career.dvinci.de/de/jobs/197/apply?_ga=2.151254140.491354477.1543480671-1360277794.1543480671)  online bewerben oder  Ihre Unterlagen an folgende E-Mailadresse senden: career@arri.de
+Über den nachfolgenden [Link](https://arri-career.dvinci.de/de/jobs/197/apply?_ga=2.151254140.491354477.1543480671-1360277794.1543480671)  können Sie sich online bewerben.
+Sie können auch Ihre Unterlagen an folgende E-Mailadresse senden: career@arri.de
