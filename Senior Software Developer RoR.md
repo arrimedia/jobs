@@ -41,7 +41,6 @@
 - Option auf Home Office
 
 
----
 ###### Unser Stack:
 •	Ruby on Rails
 •	RSpec
