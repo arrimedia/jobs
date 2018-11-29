@@ -35,10 +35,9 @@
 - Spannende und abwechslungsreiche Aufgabengebiete sowie Einblicke in alle Prozesse vom Produktdesign bis zum SW-Release
 
 - Vielfältige Karriere- und Entwicklungsmöglichkeiten
-- 30 Tage Urlaub
-- 13 Monatsgehälter
-- Altersvorsorgepaket
-- Option auf Home Office
+- zusätzliche Absicherung durch eine betriebliche Altersversorgung 
+- Gleitzeit und flexible Arbeitszeitmodelle
+- familienfreundliches Arbeiten
 
 
 ###### Unser Stack:
@@ -55,5 +54,5 @@
 ---
 
 #### Bewerben:
-
-Sie können sich [hier](https://arri-career.dvinci.de/de/jobs/197/apply?_ga=2.151254140.491354477.1543480671-1360277794.1543480671)  online bewerben oder  Ihre Unterlagen an folgende E-Mailadresse senden: career@arri.de
+Über den nachfolgenden [Link](https://arri-career.dvinci.de/de/jobs/350/apply?_ga=2.250810563.491354477.1543480671-1360277794.1543480671)  können Sie sich online bewerben.
+Sie können auch Ihre Unterlagen an folgende E-Mailadresse senden: career@arri.de
