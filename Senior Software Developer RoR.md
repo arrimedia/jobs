@@ -1,11 +1,11 @@
 ## Senior Softwareentwickler (m/w/d) Ruby on Rails
 
-###### Aufgaben
+#### Aufgaben
 - Konzeption, Entwicklung und Pflege der auf Ruby on Rails- und HTML5-basierten Webapplikationen und Media Asset Management Systeme im Bereich der Filmproduktion
 
 - Entwicklung von Anwendungen und Schnittstellen zur Verbesserung und Optimierung von Workflows in der Postproduktion sowie von postproduktionsnahen Produkten
 
-###### Anforderungen
+#### Anforderungen
 - mehrjährige Berufserfahrung als Softwareentwickler von Ruby on Rails Applikationen oder einem anderen MVC-Framework
 
 - gute Kenntnisse in HTML5 und JavaScript
@@ -25,7 +25,7 @@
 
 
 
-###### Das bieten wir Ihnen:
+#### Das bieten wir Ihnen:
 - Sie erwartet ein erfahrenes und agiles Entwicklungsteam aus Front- und Backend-Entwicklern (m/w) und Designern (m/w) mit Sitz im Zentrum von München
 
 - Agile Entwicklungsprozesse: Praktiziertes Behavior Driven (BDD), Test Driven Development (TDD) sowie Pairing
@@ -55,6 +55,6 @@
 
 ---
 
-###### Bewerben:
+#### Bewerben:
 
 Sie können sich [hier](https://arri-career.dvinci.de/de/jobs/197/apply?_ga=2.151254140.491354477.1543480671-1360277794.1543480671)  online bewerben oder  Ihre Unterlagen an folgende E-Mailadresse senden: career@arri.de
