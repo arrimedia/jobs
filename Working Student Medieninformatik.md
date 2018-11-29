@@ -1,6 +1,6 @@
 ## Werkstudent (m/w/d) Medianinformatik
 
-###### Aufgaben
+#### Aufgaben
  *befristet (max. 20 Stunden/Woche während des Semesters, max. 35 Stunden/Woche in den Semesterferien)*
 
  Sie werden
@@ -9,7 +9,7 @@
 - automatisierte Softwaretestlösungen (QA) entwickeln, durchführen, pflegen und dokumentieren
 
 
-###### Anforderungen
+#### Anforderungen
 Sie haben
 - ein Studium im Bereich Ingenieur- oder Naturwissenschaften begonnen und möchten nun Praxiserfahrung sammeln
 - Grundkenntnisse in mindestens einer Programmiersprache
@@ -25,7 +25,7 @@ Optional/wünschenswert haben Sie zudem:
 - Erfahrung mit JavaScript, Ruby on Rails
 
 
-###### Das bieten wir Ihnen:
+#### Das bieten wir Ihnen:
 - Sie erwartet ein erfahrenes und agiles Entwicklungsteam aus Front- und Backend-Entwicklern (m/w) und Designern (m/w) mit Sitz im Zentrum von München  (nur wenige Minuten zu Fuß von der U-Bahn-Station Universität entfernt)
 
 - Agile Entwicklungsprozesse: Praktiziertes Behavior Driven (BDD), Test Driven Development (TDD) sowie Pairing
@@ -52,6 +52,6 @@ Optional/wünschenswert haben Sie zudem:
 
 ---
 
-###### Bewerben:
+#### Bewerben:
 
 Sie können sich [hier](https://arri-career.dvinci.de/de/jobs/197/apply?_ga=2.151254140.491354477.1543480671-1360277794.1543480671)  online bewerben oder  Ihre Unterlagen an folgende E-Mailadresse senden: career@arri.de
