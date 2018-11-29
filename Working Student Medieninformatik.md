@@ -37,8 +37,6 @@ Optional/wünschenswert haben Sie zudem:
 - flexible Arbeitszeiten
 
 
-
----
 ###### Unser Stack:
 •	Ruby on Rails
 •	RSpec
