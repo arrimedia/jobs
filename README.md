@@ -14,7 +14,7 @@ ARRI is a very successful worldwide operating company with high quality products
 We offer continuous varied career opportunities in Germany and abroad for employees with large enthusiasm, innovative spirit and passion. As well as school graduates and students are enabled to get interesting insights and perspectives.
 
 ---
-Find out more about our [company](www.arrimedia.de)
+Find out more about our [company](http://www.arrimedia.de)
 
 Twitter: [@ARRIChannel](http://twitter.com/ARRIChannel)
 
