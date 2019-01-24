@@ -31,7 +31,7 @@
 
 - Spannende und abwechslungsreiche Aufgabengebiete sowie Einblicke in alle Prozesse vom Produktdesign bis zum SW-Release
 
-- Home-Office möglich
+- Teilzeit / Home-Office möglich
 
 
 
