@@ -1,29 +1,24 @@
-## Senior Softwareentwickler (m/w/d) Ruby on Rails
+## QA / Softwaretester (m/w/d) 
 
 #### Aufgaben
-- Konzeption, Entwicklung und Pflege der auf Ruby on Rails- und HTML5-basierten Webapplikationen und Media Asset Management Systeme im Bereich der Filmproduktion
+- selbstständige Durchführung von Softwaretests für unsere auf Ruby on Rails- und HTML5-basierten Webapplikationen und Media Asset Management Systeme im Bereich der Filmproduktion
 
-- maßgebliche Weiterentwicklung von Anwendungen und Schnittstellen zur Verbesserung und Optimierung von Workflows in der Postproduktion sowie von postproduktionsnahen Produkten
+- Dokumentation und Kommunikation der Testergebnisse
+
+- Optimierung der Qualitätssicherungsprozesse
+
+- Sie bilden die Schnittstelle zwischen Produktentwicklung, Support und Softwareentwicklung
 
 - Nutzung agiler Softwareentwicklungsmethoden (Kanban) und Prozesse 
 
+
 #### Anforderungen
-- mehrjährige Berufserfahrung als Softwareentwickler von Ruby on Rails Applikationen oder einem anderen MVC-Framework
-
-- gute Kenntnisse in HTML5 und JavaScript
-
-- Kenntnisse in relationalen Datenbanken (MySQL)
-
-- Gute Kenntnisse im Bereich der Installation, Administration und Konfiguration Linux-/UNIX-basierter Betriebssysteme
-
-- Kenntnisse in der agilen Softwareentwicklung (Scrum, Kanban, Continuous Integration)
+- Erfahrung im Bereich Software-Testing / QA
 
 - Hohes Verantwortungs- und Qualitätsbewusstsein, Teamgeist und Eigeninitiative
 
-- Fließende Deutschkenntnisse und gute Englischkenntnisse sind Voraussetzung
+- Fließende Deutschkenntnisse und gute Englischkenntnisse
 
-- ein abgeschlossenes Studium im Bereich Informatik, Medieninformatik oder einer ähnlichen Fachrichtung oder eine vergleichbare Qualifikation bzw. eine abgeschlossene fachspezifische Berufsausbildung z.B. zum Fachinformatiker ist von Vorteil
-- Kenntnisse im Bereich Medienproduktion oder zu Workflows, technischen Hintergründen in der digitalen Postproduktion sind ein Plus
 
 
 
@@ -36,10 +31,6 @@
 
 - Spannende und abwechslungsreiche Aufgabengebiete sowie Einblicke in alle Prozesse vom Produktdesign bis zum SW-Release
 
-- Vielfältige Karriere- und Entwicklungsmöglichkeiten
-- zusätzliche Absicherung durch eine betriebliche Altersversorgung 
-- Gleitzeit und flexible Arbeitszeitmodelle
-- familienfreundliches Arbeiten
 
 
 ###### Unser Stack:
@@ -57,5 +48,7 @@
 
 #### Bewerben:
 
-Über den nachfolgenden [Link](https://arri-career.dvinci.de/de/jobs/197/apply?_ga=2.151254140.491354477.1543480671-1360277794.1543480671)  können Sie sich online bewerben.
+Bitte senden Sie Ihre Bewerbung an: 
+
+ARRI Media GmbH - Personalabteilung, z. Hd. Frau Elena Troidl: career@arri.de
 
