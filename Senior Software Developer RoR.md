@@ -50,5 +50,5 @@
 
 Bitte senden Sie Ihre Bewerbung an: 
 
-ARRI Media GmbH - Personalabteilung, z. Hd. Frau Elena Troidl: career@arri.de
+ARRI Media GmbH - Personalabteilung: career@arri.de
 
