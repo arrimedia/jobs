@@ -25,7 +25,7 @@
 #### Das bieten wir Ihnen:
 - Sie erwartet ein erfahrenes und agiles Entwicklungsteam aus Front- und Backend-Entwicklern (m/w) und Designern (m/w) mit Sitz im Zentrum von München
 
-- Agile Entwicklungsprozesse: Praktiziertes Behavior Driven (BDD), Test Driven Development (TDD) sowie Pairing
+- Agile Entwicklungsprozesse: Praktiziertes Behavior Driven Development (BDD), Test Driven Development (TDD) sowie Pairing
 
 - Sie entwickeln mit uns professionelle Webapplikationen, die von Filmschaffenden und Produktionen begeistert eingesetzt werden
 
