@@ -1,43 +1,44 @@
-## Softwareentwickler (m/w/d) Webentwicklung
+## Web-/ Softwareentwickler - Ruby on Rails (m/w/d)
+
+ARRI sucht einen Softwareentwickler (m/w/d) für unser Softwareentwicklungsteam im Herzen von München. Wir sind ein 8-köpfiges Team, das sich um die Weiterentwicklung unserer Webapplikationen im Bereich der Filmproduktion kümmert.
 
 #### Aufgaben
-- Konzeption, Entwicklung und Pflege der auf Ruby on Rails- und HTML5-basierten Webapplikationen und Media Asset Management Systeme im Bereich der Filmproduktion
+- Konzeption, Entwicklung und Pflege von auf Ruby on Rails- und HTML5-basierten Webapplikationen (ARRI Webgate, Fusion Network Portal) und Media Asset Management Systemen in den Bereichen der Filmproduktion, Postproduktion und Distribution
 
-- Entwicklung von Anwendungen und Schnittstellen zur Verbesserung und Optimierung von Workflows in der Postproduktion sowie von postproduktionsnahen Produkten
+- Umsetzung und Konzeption neuer Module, Webservices und Schnittstellen
+
+- Mitwirkung an der Entwicklung von Anwendungen und Schnittstellen zur Verbesserung und Vereinfachung von Workflows in der Postproduktion sowie von postproduktionsnahen Produkten
 
 #### Anforderungen
-- mehrjährige Berufserfahrung als Softwareentwickler
+- Mehrjährige Berufserfahrung als Softwareentwickler
 
-- gute Kenntnisse in HTML5 und JavaScript
+- Kenntnisse in der Entwicklung von Ruby-on-Rails Applikationen oder einem anderen MVC-Framework sowie von Test Driven Development (TDD)
 
-- Kenntnisse in relationalen Datenbanken (MySQL)
+- Kenntnisse in der agilen Softwareentwicklung (Scrum, Kanban, Continuous Integration) sowie in relationalen Datenbanken (MySQL)
 
-- idealerweise Kenntnisse in der Entwicklung von Ruby on Rails Applikationen oder einem anderen MVC-Framework
+- Gute Kenntnisse in HTML5 und JavaScript
 
-- Kenntnisse im Bereich der Installation, Administration und Konfiguration Linux-/UNIX-basierter Betriebssysteme
+- Kenntnisse im Bereich der Installation, Administration und Konfiguration Linux-/UNIX-basierter Betriebssysteme (z.B. ansible)
 
 - Hohes Verantwortungs- und Qualitätsbewusstsein, Teamgeist und Eigeninitiative
 
-- Fließende Deutschkenntnisse und gute Englischkenntnisse sind Voraussetzung
-
-- ein abgeschlossenes Studium im Bereich Informatik, Medieninformatik oder einer ähnlichen Fachrichtung oder eine vergleichbare Qualifikation bzw. eine abgeschlossene fachspezifische Berufsausbildung z.B. zum Fachinformatiker (m/w) ist von Vorteil
-
-
+#### Pluspunkte
+- Kenntnisse im Bereich Medienproduktion oder zu Workflows und technischen Hintergründen in der digitalen Postproduktion 
+- Abgeschlossenes Hochschulstudium oder eine vergleichbare Qualifikation bzw. eine fachspezifische Berufsausbildung
 
 
-#### Das bieten wir Ihnen:
+#### Wir bieten 
 - Sie erwartet ein erfahrenes und agiles Entwicklungsteam aus Front- und Backend-Entwicklern (m/w) und Designern (m/w) mit Sitz im Zentrum von München
-
-- Agile Entwicklungsprozesse: Praktiziertes Behavior Driven (BDD), Test Driven Development (TDD) sowie Pairing
-
-- Sie entwickeln mit uns professionelle Webapplikationen, die von Filmschaffenden und Produktionen begeistert eingesetzt werden
-
 - Spannende und abwechslungsreiche Aufgabengebiete sowie Einblicke in alle Prozesse vom Produktdesign bis zum SW-Release
-
-- Vielfältige Karriere- und Entwicklungsmöglichkeiten
-- zusätzliche Absicherung durch eine betriebliche Altersversorgung 
-- Gleitzeit und flexible Arbeitszeitmodelle
-- familienfreundliches Arbeiten
+- Sie entwickeln mit uns professionelle Webapplikationen, die von Filmschaffenden und Produktionen begeistert eingesetzt werden
+- Flexible Arbeitszeiten mit Home-Office Option
+- Agile Entwicklungsumgebung: Praktiziertes Behavior Driven (BDD), Test Driven Development (TDD) sowie Pairing
+- 30 Tage Urlaub sowie Sonderurlaubstage bei bestimmten Anlässen
+- Eine marktgerechte Vergütung und attraktive Zusatzleistungen
+- Eine betriebliche Altersvorsorge
+- Spannende Entwicklungsmöglichkeiten
+- Regelmäßige Mitarbeiterevents
+- Ein Corporate Benefits Programm mit vergünstigten Mitarbeiterangeboten
 
 
 ###### Unser Stack:
@@ -54,4 +55,4 @@
 ---
 
 #### Bewerben:
-Über den nachfolgenden [Link](https://arri-career.dvinci.de/de/jobs/350/apply?_ga=2.250810563.491354477.1543480671-1360277794.1543480671)  können Sie sich online bewerben.
+Über den nachfolgenden [Link](https://www.arri.com/en/company/careers/current-vacancies/arri-stellenausschreibung?jobId=10491)  können Sie sich online bewerben.
